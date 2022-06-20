@@ -1,4 +1,4 @@
-# Brick Breake Game
+# Brick Breaker Game
  
  Brick Breaker is a simple java (swing/desktop) application game project.This project is a simple java (swing/desktop) application game project. The Brick Breaker Game In Java is built fully in Java. It has full-featured Graphical User Interface (GUI) with all the functionalities. 
 
